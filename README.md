@@ -6,7 +6,7 @@
 > 
 > [Ji Du](https://xiaohainku.github.io/), [Jiesheng Wu](https://scholar.google.com/citations?hl=en&user=fDgrxRcAAAAJ), Desheng Kong, Fangwei Hao, [Jing Xu](https://ai.nankai.edu.cn/info/1033/3528.htm), [Ping Li](https://scholar.google.com/citations?user=mQ9YyHsAAAAJ&hl=en)
 >
-> 1. Nankai University 2. The Hong Kong Polytechnic University
+> a. Nankai University b. The Hong Kong Polytechnic University
 
 **Abstract**
 
