@@ -2,6 +2,5 @@ faiss-gpu
 segment_anything_hq
 pysodmetrics
 timm
-pysodmetrics
 PyYAML
 opencv-python
