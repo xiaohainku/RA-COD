@@ -3,7 +3,7 @@
 > [**RA-COD: Retrieval-Augmented Camouflaged Object Detection**](https://github.com/xiaohainku/RA-COD)
 >
 > **TIP 2026**
->
+> [Ji Du](https://xiaohainku.github.io/), [JieSheng Wu](https://scholar.google.com/citations?hl=en&user=fDgrxRcAAAAJ), Desheng Kong, [Jing Xu](https://ai.nankai.edu.cn/info/1033/3528.htm), [Ping Li](https://scholar.google.com/citations?user=mQ9YyHsAAAAJ&hl=en)
 > **NKU & PolyU**
 
 **Abstract**
