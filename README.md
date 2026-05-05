@@ -43,7 +43,7 @@ Camouflaged Object Detection (COD) is pivotal for segmenting objects that seamle
 
 ## Evaluation
 
-1. **Quickly reproduce the original results**
+1. **Quickly reproduce results in the paper**
 
    - download our precomputed prototype
 
