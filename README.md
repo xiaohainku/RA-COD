@@ -4,7 +4,7 @@
 >
 > **TIP 2026**
 > 
-> [Ji Du](https://xiaohainku.github.io/), [JieSheng Wu](https://scholar.google.com/citations?hl=en&user=fDgrxRcAAAAJ), Desheng Kong, Fangwei Hao, [Jing Xu](https://ai.nankai.edu.cn/info/1033/3528.htm), [Ping Li](https://scholar.google.com/citations?user=mQ9YyHsAAAAJ&hl=en)
+> [Ji Du](https://xiaohainku.github.io/), [Jiesheng Wu](https://scholar.google.com/citations?hl=en&user=fDgrxRcAAAAJ), Desheng Kong, Fangwei Hao, [Jing Xu](https://ai.nankai.edu.cn/info/1033/3528.htm), [Ping Li](https://scholar.google.com/citations?user=mQ9YyHsAAAAJ&hl=en)
 >
 > **NKU & PolyU**
 
