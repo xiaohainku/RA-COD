@@ -1,4 +1,4 @@
-# RA-COD: Retrieval-Augmented Camouflaged Object Detection
+# Retrieval-Augmented Camouflaged Object Detection
 
 > [**RA-COD: Retrieval-Augmented Camouflaged Object Detection**](https://github.com/xiaohainku/RA-COD)
 >
@@ -90,5 +90,6 @@ If you find our work interesting, please consider using the following BibTeX ent
   title={RA-COD: Retrieval-Augmented Camouflaged Object Detection}, 
   year={2026}
   }
+
 ```
 
