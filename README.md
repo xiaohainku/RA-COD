@@ -90,6 +90,5 @@ If you find our work interesting, please consider using the following BibTeX ent
   title={RA-COD: Retrieval-Augmented Camouflaged Object Detection}, 
   year={2026}
   }
-
 ```
 
