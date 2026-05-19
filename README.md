@@ -1,6 +1,6 @@
 # RA-COD: Retrieval-Augmented Camouflaged Object Detection
 
-> [**RA-COD: Retrieval-Augmented Camouflaged Object Detection**](https://github.com/xiaohainku/RA-COD)
+> [**RA-COD: Retrieval-Augmented Camouflaged Object Detection**](https://doi.org/10.1109/TIP.2026.3691679)
 >
 > TIP 2026
 > 
