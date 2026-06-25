@@ -87,11 +87,14 @@ If you find our work interesting, please consider using the following BibTeX ent
 
 ```latex
 @ARTICLE{RA-COD,
-  author={Du, Ji and and Wu, Jiesheng and Kong, Desheng and Hao, Fangwei and Xu, Jing and Li, Ping},
+  author={Du, Ji and Wu, Jiesheng and Kong, Desheng and Hao, Fangwei and Xu, Jing and Li, Ping},
   journal={IEEE Transactions on Image Processing}, 
-  title={{RA-COD}: Retrieval-Augmented Camouflaged Object Detection}, 
-  year={2026}
-  }
+  title={RA-COD: Retrieval-Augmented Camouflaged Object Detection}, 
+  year={2026},
+  volume={35},
+  number={},
+  pages={5253-5265},
+}
 
 ```
 
